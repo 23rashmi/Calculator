@@ -1,0 +1,14 @@
+D:\MPHASIS PROJECTS\Phase-4\Calculator\Calculator\bin\Debug\net6.0\Calculator.exe
+D:\MPHASIS PROJECTS\Phase-4\Calculator\Calculator\bin\Debug\net6.0\Calculator.deps.json
+D:\MPHASIS PROJECTS\Phase-4\Calculator\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+D:\MPHASIS PROJECTS\Phase-4\Calculator\Calculator\bin\Debug\net6.0\Calculator.dll
+D:\MPHASIS PROJECTS\Phase-4\Calculator\Calculator\bin\Debug\net6.0\Calculator.pdb
+D:\MPHASIS PROJECTS\Phase-4\Calculator\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\MPHASIS PROJECTS\Phase-4\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+D:\MPHASIS PROJECTS\Phase-4\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+D:\MPHASIS PROJECTS\Phase-4\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+D:\MPHASIS PROJECTS\Phase-4\Calculator\Calculator\obj\Debug\net6.0\Calculator.dll
+D:\MPHASIS PROJECTS\Phase-4\Calculator\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+D:\MPHASIS PROJECTS\Phase-4\Calculator\Calculator\obj\Debug\net6.0\Calculator.pdb
+D:\MPHASIS PROJECTS\Phase-4\Calculator\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+D:\MPHASIS PROJECTS\Phase-4\Calculator\Calculator\obj\Debug\net6.0\ref\Calculator.dll
